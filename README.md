@@ -1,4 +1,4 @@
-# sudoku_solver_zig
+# sudoku-solver-zig
 Solves sudoku so I don't have to, in Zig!
 
 ## To Do
